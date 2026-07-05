@@ -43,7 +43,7 @@ Each repo includes a runnable local simulation, workflow documentation, and vali
 If you have a manual process that eats hours every week, ESN AI Studio can help scope whether it is a good automation candidate and what the build would look like.
 
 - GitHub: https://github.com/nomanabdullah17714-ops
-- LinkedIn: https://www.linkedin.com/in/abdullah-al-noman-b38865378
+- LinkedIn: https://www.linkedin.com/in/esnabdullah/
 - Website: https://esnaistudio.com
 
 <sub>Demos in this profile use sample/synthetic data only and do not represent client work.</sub>
